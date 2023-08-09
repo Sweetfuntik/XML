@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <root>
-    <Film>Lord of the rings</Film>
-    <TV series>X Files</TV series>
+    <Film>Lord_of_the_rings</Film>
+    <TVseries>X-Files</TVseries>
     <Favoritefood>Fry chicken</Favoritefood>
     <Favoritetimeoftheyear>Summer</Favoritetimeoftheyear>
     <Favoritecountry>Norway</Favoritecountry>
