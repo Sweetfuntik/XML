@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <Id>serial number</Id>
+    <Title>Name of a bug</Title>
+    <Description>First bug report</Description>
+    <Actualresult>First bug report</Actualresult>
+    <Expectedresult>First bug report</Expectedresult>
+    <Severity>Major</Severity>
+    <Environment>Windows 10 corporate</Environment>
+    <Assigne>Vladimir Bagnenko</Assigne>
+    <Attachments>screenshot</Attachments>
+</root>
