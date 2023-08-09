@@ -6,7 +6,8 @@
     <Actualresult>First bug report</Actualresult>
     <Expectedresult>First bug report</Expectedresult>
     <Severity>Major</Severity>
+    <Priority>Hight</Priority>
     <Environment>Windows 10 corporate</Environment>
     <Assigne>Vladimir Bagnenko</Assigne>
-    <Attachments>screenshot</Attachments>
+    <Attachments>Screenshot</Attachments>
 </root>
