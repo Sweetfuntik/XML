@@ -4,7 +4,7 @@
     <Title>Name of a bug</Title>
     <Description>First bug report</Description>
     <Actualresult>First bug report</Actualresult>
-    <Expectedresult>First bug report</Expectedresult>
+    <Expectedresult>Result in the requirements</Expectedresult>
     <Severity>Major</Severity>
     <Priority>Hight</Priority>
     <Environment>Windows 10 corporate</Environment>
