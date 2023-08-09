@@ -3,7 +3,7 @@
     <Id>serial number</Id>
     <Title>Name of a bug</Title>
     <Description>First bug report</Description>
-    <Actualresult>First bug report</Actualresult>
+    <Actualresult>Current result</Actualresult>
     <Expectedresult>Result in the requirements</Expectedresult>
     <Severity>Major</Severity>
     <Priority>Hight</Priority>
